@@ -1,6 +1,6 @@
 # Scroll-Animation
 
-Training project #6
+Training project #5
 
 There are three steps to configure this app.
 
